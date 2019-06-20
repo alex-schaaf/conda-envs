@@ -1,0 +1,20 @@
+name: topology
+dependencies:
+  - python=3.7
+  - nb_conda_kernels
+  - matplotlib
+  - numpy=1.15.4
+  - pandas
+  - scipy
+  - mkl-service
+  - libpython
+  - pygpu
+  - pip
+  - scikit-image
+  - seaborn
+  - conda-forge:nodejs
+  - pip:
+      - mplstereonet
+      - ipyvolume
+      - pyvista
+      - theano>=1.0.4
