@@ -25,3 +25,4 @@ dependencies:
       - gstools
       - elfi
       - tqdm
+      - networkx>=2.3
