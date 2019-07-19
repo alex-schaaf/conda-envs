@@ -24,3 +24,4 @@ dependencies:
       - theano>=1.0.4
       - gstools
       - elfi
+      - tqdm
