@@ -9,7 +9,6 @@ dependencies:
   - mkl-service
   - pygpu
   - pip
-  - scikit-image
   - scikit-learn
   - seaborn
   - conda-forge:nodejs
