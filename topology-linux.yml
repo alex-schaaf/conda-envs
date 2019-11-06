@@ -13,7 +13,9 @@ dependencies:
   - seaborn
   - conda-forge:nodejs
   - bokeh
+  - h5py
   - pip:
+      - cython
       - mplstereonet
       - ipyvolume
       - pyvista
